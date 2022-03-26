@@ -1,0 +1,38 @@
+body{
+	background: url("imagens/fundo.png");
+	font-family:  Arial, Verdana, Helvetica;
+}
+
+#principal {
+	width: 900px;
+}
+
+#menu {
+	background: #cacab4;
+	padding: 20px 10px;
+	text-transform: uppercase;
+	
+}
+
+a {
+	text-decoration: none;
+	padding: 20px 5px;
+	font-weight: bold;
+	color: #4b4b35;
+}
+
+#conteudo {
+	background: #eaeae1;
+	padding: 10px;
+}
+
+h2{
+	color: #777755;
+	font-size: 1.2em;
+}
+
+#rotape{
+	text-align: center;
+	padding: 20px;
+	font-weight: bold;
+}
