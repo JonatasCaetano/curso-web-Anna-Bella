@@ -36,3 +36,7 @@ h2{
 	padding: 20px;
 	font-weight: bold;
 }
+
+.imagem {
+	border: 10px solid #cacab4;
+}
